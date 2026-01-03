@@ -23,6 +23,9 @@ Mechanical switches, programmable layers, and a minimalist aesthetic.
 ![PCB Preview](/asset/PCB-Preview.png)
 > PCB
 
+![Render](/asset/render.png)
+> Render
+
 ## Firmware
 The HackPad's firmware is based on [KMK Firmware](https://kmkfw.io/).
 
