@@ -13,7 +13,8 @@ Mechanical switches, programmable layers, and a minimalist aesthetic.
 ## CAD Model
 ![Plate](/asset/plate.png) 
 ![Bottom](/asset/bottom.png)
-They have smooth corners.
+
+![Result](/asset/result.png)
 
 ## PCB
 ![Schematic](/asset/schematic.png)
