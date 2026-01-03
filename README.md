@@ -31,3 +31,5 @@ The HackPad's firmware is based on [KMK Firmware](https://kmkfw.io/).
 - 6x DSA Keycaps
 - 1x XIAO RP2040
 - 1x Case (2 printed parts)
+- 4x M3x16 Bolt
+- 4x M3 Heatset
