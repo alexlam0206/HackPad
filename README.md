@@ -1,6 +1,6 @@
 ## Hackpad
 
-![PCB Preview](PCB-Preview.png)
+![PCB Preview](/asset/PCB-Preview.png)
 
 A custom-built macro pad designed for productivity. 
 
