@@ -3,6 +3,7 @@ from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
 from kmk.modules.macros import Macros
 from kmk.handlers.sequences import simple_key_sequence
++from kmk.scanners.keypad import KeysScanner
 
 keyboard = KMKKeyboard()
 
