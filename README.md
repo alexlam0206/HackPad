@@ -4,6 +4,8 @@ A custom-built macro pad designed for productivity.
 
 Mechanical switches, programmable layers, and a minimalist aesthetic.
 
+![result](https://github.com/alexlam0206/HackPad/blob/7fae1d23f2e9708908a7ea975e950a12eb654dd4/asset/IMG_0055.webp)
+
 ## Features
 
 - 2x3 Macro Pad
